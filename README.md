@@ -11,6 +11,12 @@ and conflict-resolution practices available to all members. Most decisions
 should be made organically from the bottom up, but decisions that change the
 SSB-JS organization require discussion and consent.
 
+## Runtimes
+
+- Node.js v10 (Dubnium)
+- Node.js v12 (Erbium)
+- Node.js [Current](https://nodejs.org/en/about/releases/)
+
 ## Projects
 
 - [Chloride](https://github.com/ssb-js/chloride)
